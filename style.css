@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 10vw;
+}
+
+section {
+    display: flex;
+    padding: 0px 10vw;
+}
+
+footer {
+    text-align: center;
+}
+
+ul {
+    display: flex;
+}
+
+.section-one img {
+    height: auto;
+    width: 500px;
+}
