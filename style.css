@@ -105,6 +105,7 @@ section {
 
 #section-three {
     background-color: #E5E7EB;
+    justify-content: center;
 }
 
 #section-three figure {
